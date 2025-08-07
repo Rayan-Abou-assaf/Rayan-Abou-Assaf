@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋, I'm [Your Name]
 
-<!--
-**Rayan-Abou-assaf/Rayan-Abou-Assaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer and Communication Engineering student with a passion for building and securing digital systems. I'm currently diving deep into cybersecurity and network programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Technologies & Tools**
+*   **Languages:** Python, C++, SQL, Bash
+*   **Cybersecurity:** Network Security, Wireshark, SIEM (Learning), Vulnerability Assessment (Learning)
+*   **Tools:** Git, Docker, Linux (Ubuntu), Visual Studio Code
+
+---
+
+**🌱 I’m currently working on:**
+- Completing the Google Cybersecurity Professional Certificate on Coursera.
+- [Name of a university or personal project, e.g., "A Python-based network packet sniffer"].
+
+---
+
+**📫 How to reach me:**
+- LinkedIn: [Your LinkedIn Profile URL]
+- Email: [Your Professional Email]
