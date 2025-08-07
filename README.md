@@ -18,5 +18,5 @@ I'm a second-year Computer and Communication Engineering student with a passion 
 ---
 
 **📫 How to reach me:**
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Professional Email]
+- LinkedIn: www.linkedin.com/in/rayan-abou-assaf
+- Email: Rayan Abou assaf <abr036885@gmail.com>
